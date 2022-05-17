@@ -4,7 +4,7 @@
 
 
 <h3>Hi there👋</h3>
-🌱 I am Han Sang-eun studying to become a full stack developer skilled in Web. <br/><br/>
+🌱 I am Han Sang-eun studying to become a full stack developer. <br/><br/>
 
 <h3>💪Skills</h3>
 <h4>💻Languages</h4>
