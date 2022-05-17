@@ -3,11 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 
-<br/>
-<h3>Hi there 👋</h3><br/>
-🌱 I am Han Sang-eun studying to become a full stack developer skilled in WEB. <br/>
+<h3>Hi there👋</h3>
+🌱 I am Han Sang-eun studying to become a full stack developer skilled in WEB. <br/><br/>
 
-### 💪Skills
+<h3>💪Skills</h3>
 <h4>💻Languages</h4>
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -39,11 +38,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
- 
- 
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
-
-
-
-
